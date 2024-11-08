@@ -26,8 +26,8 @@ Execute the C Program for the desired output.
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
-**DEVELOPED BY : THARUN SRIDHAR**
-**REGISTER NO : 212223230230**
+**DEVELOPED BY : HARIPRASHAAD RA**
+**REGISTER NO : 212223040060**
 
 ```
 #include <stdio.h>
